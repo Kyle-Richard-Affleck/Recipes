@@ -4,3 +4,4 @@ Srpring Onions -£1.20
 Potatos -£2.10
 #Instructions
 Put peas in a pan
+MIX EVERYTHING
